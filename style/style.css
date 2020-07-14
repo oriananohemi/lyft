@@ -65,6 +65,11 @@ body {
   margin-right: 20px ;
 }
 
+
+.header__nav__item:hover {
+  color: #FF00BF;
+}
+
 .hero__section__background {
   background-color: white;
   color: var(--text);
@@ -153,6 +158,10 @@ body {
   margin: 10px 0;
 }
 
+.footer__item__margin:hover {
+  color: #FF00BF;
+}
+
 .footer__section__image {
   margin: 20px auto;
   width: 100px;
@@ -176,7 +185,7 @@ body {
   
   .hero__section__background {
     margin: 0;
-    width: 50%;
+    width: 40%;
   }
 
   .section__background {
